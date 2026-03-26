@@ -14,11 +14,11 @@ Personal portfolio website showcasing my work, projects, and contact information
 This portfolio website is designed to present my skills, projects, and ways to contact me. It includes:
 
 ## Home
-![Web Design](images/web_design.png)
+![Web Design](images/Web_design.png)
 ## About
 ![Web Design](images/About.png)
 ## project
-![Web Design](images/project.png)
+![Web Design](images/Project.png)
 ## Contact
 ![Web Design](images/Contact.png)
 ## How to Run Locally
